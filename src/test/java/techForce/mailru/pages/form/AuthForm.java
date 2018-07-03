@@ -1,4 +1,4 @@
-package mailru.pages.form;
+package techForce.mailru.pages.form;
 
 import com.codeborne.selenide.SelenideElement;
 import org.openqa.selenium.support.FindBy;

@@ -1,4 +1,4 @@
-package mailru.model;
+package techForce.mailru.model;
 
 import lombok.Data;
 import lombok.experimental.Accessors;
